@@ -11,4 +11,5 @@ Ten projekt zawiera kod źródłowy JupyterLab do mojej pracy magisterskiej.
 
 3. Pobierz niezbędne datasety
 Walmart: https://www.kaggle.com/code/robikscube/m5-forecasting-starter-data-exploration
+
 Rossman: https://www.kaggle.com/competitions/rossmann-store-sales/data
